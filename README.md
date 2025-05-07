@@ -3,7 +3,7 @@
 - 🔭 Currently working on **a real-time crypto price tracker using React & Redux Toolkit**
 - 🌱 Currently learning **Next.js, TypeScript, and UI optimization**
 - 💬 Ask me about **MERN stack, UI design, and Java**
-- 📫 Reach me at: **veenuamardhingra16@gmail.com@gmail.com**
+- 📫 Reach me at: **veenuamardhingra16@gmail.com**
 - ⚡ Fun fact: I blend creativity with code—like Java meets Canva!
 
 ---
