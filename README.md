@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Gungun Dhingra</h1>
-<h3 align="center">A Passionate Full Stack Developer | Front-end Intern at XivTech | BCA Student</h3>
+<h2 align="center">Hi 👋, I'm Gungun Dhingra</h2>
 
 - 🔭 Currently working on **a real-time crypto price tracker using React & Redux Toolkit**
 - 🌱 Currently learning **Next.js, TypeScript, and UI optimization**
-- 👨‍💻 Check out my portfolio: **[Streets of Sirsa](https://instagram.com/streetsofsirsa)**
 - 💬 Ask me about **MERN stack, UI design, and Java**
-- 📫 Reach me at: **gungundhingra14@gmail.com**
+- 📫 Reach me at: **veenuamardhingra16@gmail.com@gmail.com**
 - ⚡ Fun fact: I blend creativity with code—like Java meets Canva!
 
 ---
@@ -33,8 +31,8 @@
 
 ## 📊 GitHub Stats
 
-![Gungun's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-gungun2004&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-gungun2004&layout=compact&theme=radical)
+![Gungun's GitHub stats](https://github-readme-stats.vercel.app/api?username=gungun2004&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gungun2004&layout=compact&theme=radical)
 
 ---
 
