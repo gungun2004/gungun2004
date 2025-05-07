@@ -36,12 +36,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical)
-
----
-
 ## 🚀 Projects
 
 - 🌐 **Streets of Sirsa** – Local business promotion + news page  
