@@ -67,5 +67,15 @@
 
 ---
 
+## 💖 Thank You!
+
+Thanks for visiting my profile!  
+Whether you're here to check out my projects, collaborate 🤝, or just connect 🌐 — I truly appreciate your time.  
+Feel free to reach out — I’m always open to meaningful conversations, innovative ideas 💡, and exciting opportunities 🚀
+
+### Let’s build something amazing together 🛠️✨
+
+---
+
 > “Code like poetry — clean, expressive, and powerful.”  
 > — *Gungun Dhingra*
