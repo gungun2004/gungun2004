@@ -1,39 +1,38 @@
 <h2 align="center">Hi 👋, I'm Gungun Dhingra</h2>
 <p align="center">A passionate developer blending creativity and code ✨</p>
 
-- 💬 Ask me about: **MERN Stack, UI/UX design, and Java development**
-- 📫 Reach me: **veenuamardhingra16@gmail.com**
-- ⚡ Fun fact: I mix Java with a dash of Canva for pixel-perfect interfaces!
-- 💡 Always curious: I love turning ideas into interactive, user-friendly web apps.
-- 🧠 Problem Solver: Debugging is my therapy — and I never skip the console!
 ---
-### 🚀 Projects
 
-### 🌐 [**Streets of Sirsa**](https://github.com/gungun2004/streetsofsirsa)
-> *A local discovery and promotion platform for Sirsa businesses and services.*
+### 💼 About Me
 
-- **Description:** User-friendly MERN Stack web app for exploring shops, services, and social media handles in Sirsa.
-- **Tech Stack:** React, Bootstrap, Node.js, Express.js
+- 💬 Ask me about: **MERN Stack, UI/UX Design, Java Development**
+- 📫 Reach me at: **veenuamardhingra16@gmail.com**
+- ⚡ Fun Fact: I mix Java with a dash of Canva for pixel-perfect interfaces!
+- 💡 I love turning creative ideas into smooth, interactive web apps.
+- 🧠 Debugging is my therapy — I *never* skip the console log!
 
 ---
 
-### 💹 [**Real-Time Cryptocurrency Tracker**](#)
-> *Live crypto updates with Redux Toolkit and responsive UI.*
+### 🚀 Featured Projects
 
-- **Description:** React + Redux-based web app that auto-updates prices using Web Sockets and REST APIs. Focused on real-time performance and data visualization.
-- **Tech Stack:** React, Redux Toolkit, Bootstrap, Web Socket, REST API
+#### 🌐 [**Streets of Sirsa**](https://github.com/gungun2004/streetsofsirsa)
+*A discovery + promotion platform for Sirsa’s local businesses.*
+- **🔧 Stack:** React, Node.js, Express, MongoDB, Bootstrap
+- **🎯 Features:** Business directory, social links, responsive design
+
+#### 💹 [**CryptoTracker (Real-Time)**](#)
+*Live cryptocurrency updates using Redux Toolkit and WebSockets.*
+- **🔧 Stack:** React, Redux Toolkit, Bootstrap, Web Socket, REST API
+- **🎯 Features:** Real-time prices, chart-ready data, mobile-friendly UI
+
+#### 🔍 [**Pokédex App**](https://github.com/gungun2004/pokedox)
+*A responsive Pokémon browser with filtering by type.*
+- **🔧 Stack:** React, Bootstrap, REST API, GitHub Pages, Netlify
+- **🎯 Features:** RESTful API calls, clean filters, fast UI
 
 ---
 
-### 🔍 [**Pokedex App**](https://github.com/gungun2004/pokedox)
-> *Discover and filter Pokémon by type in a sleek UI.*
-
-- **Description:** A responsive Pokémon browser with filtering functionality. Perfected using REST APIs and deployed with GitHub & Netlify.
-- **Tech Stack:** React, Bootstrap, RESTful API, GitHub, Netlify
-
----
-
-## 🛠️ Tech Stack
+### 🛠️ Tech Toolbox
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
@@ -50,30 +49,27 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-
 ---
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 
 ![Gungun's GitHub stats](https://github-readme-stats.vercel.app/api?username=gungun2004&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gungun2004&layout=compact&theme=radical)
 
 ---
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gungun-dhingra-b5a7425a)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veenuamardhingra16@gmail.com)
 
 ---
 
-## 💖 Thank You!
+### 💖 Thank You!
 
 Thanks for visiting my profile!  
-Whether you're here to check out my projects, collaborate 🤝, or just connect 🌐 — I truly appreciate your time.  
-Feel free to reach out — I’m always open to meaningful conversations, innovative ideas 💡, and exciting opportunities 🚀
-
-### Let’s build something amazing together 🛠️✨
+Whether you’re here to collaborate 🤝 or explore my work 💻 — I appreciate it!  
+Let’s connect and create something **amazing** 🚀
 
 ---
 
